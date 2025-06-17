@@ -29,10 +29,11 @@ The scripts help interact with AWS services such as **S3** and **EC2** for tasks
 > All scripts assume that you have AWS CLI credentials already configured (via `aws configure`, SSO login, or environment variables).
 
 1. Set up a virtual environment:
-   ```bash
+   # bash
    python -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
-    ```powershell
+    # powershell
+    python -m venv venv
     . .\venv\Scripts\activate
 
 2. Install dependencies
