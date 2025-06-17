@@ -1,0 +1,9 @@
+{
+    "s3_buckets": [
+        "cdk-hnb659fds-assets-975050050500-us-east-1",
+        "cf-templates-1mmobybbvdqkr-us-east-1",
+        "lam-975050050500-test-bucket",
+        "nicholaslamportfolio.click"
+    ],
+    "ec2_instances": []
+}
